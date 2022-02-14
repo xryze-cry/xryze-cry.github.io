@@ -7,7 +7,7 @@ height:100%;
 
 body
 {
-background:url("../Image/bg_1.png"); 
+background:url("../Image/bg_1.jpg"); 
 background-size: 100%;
 background-repeat: no-repeat;
 }
@@ -15,19 +15,23 @@ background-repeat: no-repeat;
 div.mainpart
 {
 position: absolute;
-top: 100px;
+top: 20%;
 background-color: aliceblue;
+border-radius: 2%;
+margin-left:5%;
 }
 
 h1.maintitle
 {
 color:blueviolet;
+margin-left: 10%;
 }
 
 
 p
 {
-font-size: 20px;
+font-size: 120%;
+margin-left: 5%;
 }
 
 p.bushi
@@ -39,10 +43,11 @@ button.normal
 {
 background-color:azure;
 border: 1px solid aqua;
-width:200px;
-min-height:50px;
-font-size: 20px;
+width:30%;
+min-height:20%;
+font-size: 110%;
 box-shadow: 2px 2px 5px paleturquoise;
+margin-left: 10%;
 }
 
 a button.normal:hover
