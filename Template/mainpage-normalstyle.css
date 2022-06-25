@@ -18,7 +18,6 @@ text-align: center;
 background-color:aqua;
 }
 
-/*centerpart内容*/
 div#centerpart
 {
 position: absolute;
@@ -68,4 +67,20 @@ width: 60%;
 h4.albumsname
 {
 text-align: center;
+}
+
+div.albums
+{
+height: 40%;
+width: 32%;
+
+float: left;
+
+padding: 0px 0px 0px 0px;
+}
+
+div.albums span.albumname
+{
+margin-left: 5px;
+margin-right: 5px;
 }
