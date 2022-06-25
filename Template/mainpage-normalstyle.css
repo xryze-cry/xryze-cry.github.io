@@ -31,10 +31,12 @@ div.centerpart h1.top1
 text-align: center;
 }
 
-div.centerpart iframe.introduction
+div.centerpart iframe#introduction
 {
 width: 100%;
 height: 60%;
+
+box-shadow:1px 1px 3px solid black;
 }
 
 
