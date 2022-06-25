@@ -6,7 +6,7 @@ height: 100%;
 
 div#leftpart
 {
-position: absolute;
+position: fixed;
 
 border-right: 1px solid black;
 width:19%;
@@ -42,7 +42,7 @@ border:2px solid black;
 
 div#rightpart
 {
-position: absolute;
+position: fixed;
 right: 0%;
 
 border-left: 1px solid black;
