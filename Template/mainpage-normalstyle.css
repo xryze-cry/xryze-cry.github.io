@@ -8,6 +8,8 @@ div#leftpart
 {
 position: fixed;
 left: 0%;
+
+border-top: 1px solid black;
 border-right: 1px solid black;
 width:19.5%;
 height: 100%;
@@ -45,6 +47,7 @@ div#rightpart
 position: fixed;
 right: 0%;
 
+border-top: 1px solid black;
 border-left: 1px solid black;
 width:19.5%;
 height: 100%;
