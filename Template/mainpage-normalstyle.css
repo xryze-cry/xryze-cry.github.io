@@ -74,6 +74,8 @@ div.albums
 height: 40%;
 width: 32%;
 
+border: 1px solid black;
+
 float: left;
 
 padding: 0px 0px 0px 0px;
