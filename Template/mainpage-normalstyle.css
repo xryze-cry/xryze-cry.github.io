@@ -81,6 +81,12 @@ float: left;
 padding: 0px 0px 0px 0px;
 }
 
+div.albums img.albumimg
+{
+src:url("../Image/ONGEKI_Sound_Collection_01.jpg");
+width: 100%;
+}
+
 div.albums span.albumname
 {
 margin-left: 5px;
