@@ -71,6 +71,8 @@ text-align: center;
 
 div.albums
 {
+float: left;
+
 height: 50%;
 width: 30%;
 
@@ -79,7 +81,7 @@ margin-right: 1.6%;
 border: 1px solid black;
 border-radius: 5px;
 
-float: left;
+
 
 padding: 0px 0px 0px 0px;
 
