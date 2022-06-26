@@ -59,6 +59,8 @@ background-color:pink;
 }
 
 
+/*音乐部分*/
+
 hr.same_series
 {
 width: 60%;
@@ -72,21 +74,15 @@ text-align: center;
 div.albums
 {
 float: left;
-
 height: 50%;
 width: 30%;
-
 margin-left: 1.5%;
 margin-right: 1.5%;
 margin-bottom: 4%;
-
 border: 1px solid black;
 border-radius: 5px;
 
-
-
 padding: 0px 0px 0px 0px;
-
 text-align: center;
 }
 
